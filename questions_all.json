@@ -599,6 +599,30 @@
       ],
       "correct": 2,
       "correct_answer": "Axborot xarakterdagi suhbat usulida"
+    },
+    {
+      "id": 51,
+      "question": "… muallifning ma'lum bir mavzu asosida o'z fikrlarini yozma shaklda bayon qilinishini ta'minlovchi kichik asar.",
+      "options": [
+        "Insho",
+        "Bayon",
+        "Diktant",
+        "Esse"
+      ],
+      "correct": 0,
+      "correct_answer": "Insho"
+    },
+    {
+      "id": 52,
+      "question": "Bunday mavzudagi insholar o'quvchilar badiiy nutqini rivojlantiradi, unga o'xshatish, sifatlash, jonlantirish, mubolag'a singari adabiy tasvir foydalanishni o'rgatadi. Bu fikr qanday insho turiga tegishli?",
+      "options": [
+        "Adabiy mavzudagi insholar",
+        "Erkin mavzudagi insholar",
+        "Ta'limiy insholar",
+        "Sinov insholar"
+      ],
+      "correct": 0,
+      "correct_answer": "Adabiy mavzudagi insholar"
     }
   ],
   "Adabiyot o'qitish metodikasi": [
