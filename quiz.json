@@ -1,0 +1,574 @@
+[
+  {
+    "id": 1,
+    "question": "Qanday holatda deduksiya usulidan foydalaniladi?",
+    "options": {
+      "a": "Hodisalarning umumiy belgilarini aniqlashda.",
+      "b": "Mavzu o'quvchilarga qisman tanish bo'lsa.",
+      "c": "O'tiladigan mavzular mutlaqo notanish bo'lsa.",
+      "d": "Ona tili darslarida bu metod qo'llanilmaydi."
+    },
+    "correct_answer": "b"
+  },
+  {
+    "id": 2,
+    "question": "So'z ma'nolarini aniqlashda katta rol o'ynaydigan vosita?",
+    "options": {
+      "a": "So'zlarning ko'p ma'noligi.",
+      "b": "Matn. Mashq.",
+      "c": "Nazariy materiallar.",
+      "d": "O'tilganlarni takrorlash."
+    },
+    "correct_answer": "b"
+  },
+  {
+    "id": 3,
+    "question": "Nazariy bilimlar bilan amaliy tayyorgarlik orasidagi farq qanday bartaraf etiladi?",
+    "options": {
+      "a": "Grammatik qoidalar uchun jonli nutqdan misollar olinadi.",
+      "b": "O'tgan qoidalar mustahkamlanadi.",
+      "c": "Ona tili o'qitish amaliyot bilan bog'lab olib boriladi.",
+      "d": "Har bir mavzu orfografiya bilan bog'lab olib boriladi."
+    },
+    "correct_answer": "c"
+  },
+  {
+    "id": 4,
+    "question": "Til o'qitishning samarasi nimaga bog'liq?",
+    "options": {
+      "a": "O'quvchilarning o'zlashtirishiga, o'qituvchi mahoratiga.",
+      "b": "O'tiladigan materialning hajmiga.",
+      "c": "O'quvchining fanga qiziqishiga.",
+      "d": "Til haqidagi lingvistik xulosalarning ilmiy va aniq bo'lishiga."
+    },
+    "correct_answer": "a"
+  },
+  {
+    "id": 5,
+    "question": "O'quvchining grammatik qoida talabiga muvofiq so'z, so'z birikmasi, gap tanlashi qaysi usulga kiradi?",
+    "options": {
+      "a": "Izlanish (ijodiylik)ga asoslangan.",
+      "b": "Qisman izlanuvchanlikka asoslangan.",
+      "c": "Reproduktiv.",
+      "d": "Xotirlash."
+    },
+    "correct_answer": "c"
+  },
+  {
+    "id": 6,
+    "question": "O'qituvchi o'quvchi bilimini baholashda nimalarga e'tibor bermog'i kerak?",
+    "options": {
+      "a": "Darsni doimiy mukammal o'zlashtirishiga.",
+      "b": "O'qituvchi bilan o'quvchi munosabatiga.",
+      "c": "Shaxsiy xususiyatiga, mustahkamligiga.",
+      "d": "O'quvchining nutqiga, diqqatiga, fikrlashiga."
+    },
+    "correct_answer": "d"
+  },
+  {
+    "id": 7,
+    "question": "Mustahkamlash darslarida o'qituvchining asosiy vazifalari?",
+    "options": {
+      "a": "Muvaffaqiyatga erishishiga ishontirish.",
+      "b": "O'quvchilar tashabbusiga rahbarlik qilish.",
+      "c": "Sinfda ijodiy vaziyat yaratish.",
+      "d": "O'quvchilar qobiliyatini o'stirish."
+    },
+    "correct_answer": "b"
+  },
+  {
+    "id": 8,
+    "question": "O'quvchilarning abstraksiyalash qobiliyatini taraqqiy ettirishda tilshunoslikning qaysi bo'limi asosiy rol o'ynaydi?",
+    "options": {
+      "a": "Morfologiya",
+      "b": "Leksikologiya",
+      "c": "Fonetika",
+      "d": "Grammatika"
+    },
+    "correct_answer": "d"
+  },
+  {
+    "id": 9,
+    "question": "Ona tili o'qitish metodikasi o'z muammolarini hal qilishda birinchi navbatda qaysi fanlarning xulosalariga asoslanadi?",
+    "options": {
+      "a": "Tilshunoslik, pedagogka, psixologiya.",
+      "b": "Tilshunoslik, adabiyot nazariyasi, pedagogika.",
+      "c": "Lingvistika, adabiyotshunoslik, tilshunoslik.",
+      "d": "Tarix, tilshunoslik, geografiya."
+    },
+    "correct_answer": "a"
+  },
+  {
+    "id": 10,
+    "question": "So'zning ko'chma ma'nosi qanday vosita yordamida tushuntiriladi?",
+    "options": {
+      "a": "U birikib kelgan boshqa so'zlar vositasida",
+      "b": "Leksik ma'nolar vositasida",
+      "c": "Ko'p ma'nolilik vositasida",
+      "d": "Ko'rgazmali qurol vositasida"
+    },
+    "correct_answer": "a"
+  },
+  {
+    "id": 11,
+    "question": "Pedagog va o'quvchining ta'lim maqsadlarini amalga oshirishga qaratilgan hamkorlikdagi faoliyatlarining usullari nima deyiladi?",
+    "options": {
+      "a": "Ta'lim metodi",
+      "b": "Venn diagrammasi",
+      "c": "Sinkveyn",
+      "d": "Tahlil"
+    },
+    "correct_answer": "a"
+  },
+  {
+    "id": 12,
+    "question": "Ilmiylik prinsipi deganda nimani tushuniladi?",
+    "options": {
+      "a": "O'quv predmetlarini hozirgi fan yutuqlari zaminida bayon qilinishi",
+      "b": "Ona tili fani maqsad va vazifalarini.",
+      "c": "Darsda o'quvchilarning mustaqil ishlarni tashkil qilishini.",
+      "d": "Dars samaradorligini"
+    },
+    "correct_answer": "a"
+  },
+  {
+    "id": 13,
+    "question": "Pedagogik eksperiment bosqichlarini belgilang.",
+    "options": {
+      "a": "aniqlovchi, shakllantiruvchi, yakuniy nazorat eksprerimenti",
+      "b": "kuzatish, izlanish, qiyoslash",
+      "c": "aniqlovchi, qiyoslash, farqlarni topish",
+      "d": "qo'llash, shakllantiruvchi, izlanish"
+    },
+    "correct_answer": "a"
+  },
+  {
+    "id": 14,
+    "question": "Y.K.Babanskiy ta'lim metodlarini nechta guruhga bo'ladi?",
+    "options": {
+      "a": "3",
+      "b": "4",
+      "c": "2",
+      "d": "5"
+    },
+    "correct_answer": "a"
+  },
+  {
+    "id": 15,
+    "question": "Ona tili to'garagining a'zolari nechta o'quvchidan oshmasligi kerak?",
+    "options": {
+      "a": "12-15",
+      "b": "10-12",
+      "c": "15-17",
+      "d": "14-16"
+    },
+    "correct_answer": "a"
+  },
+  {
+    "id": 16,
+    "question": "O'quvchilar nutqini o'stirishda, orfografik ko'nikmalarni shakllantirishda ahamiyatga ega bo'lgan diktant turi qaysi?",
+    "options": {
+      "a": "Ijodiy",
+      "b": "Saylanma",
+      "c": "Qo'shimcha topshiriqli",
+      "d": "Qisqa"
+    },
+    "correct_answer": "a"
+  },
+  {
+    "id": 17,
+    "question": "… diktantda o'quvchi gapni to'liq yozmaydi, balki gap tarkibidagi ayrim so'z yoki so'z birikmalarini yozadi. Bu esa qisqa vaqt ichida ma'lum qoida asosida yozilishi kerak bo'lgan bir qancha so'zlarning imlosini o'rganishga yordam beradi.",
+    "options": {
+      "a": "Saylanma",
+      "b": "Ijodiy",
+      "c": "Qo'shimcha topshiriqli",
+      "d": "Lug'at"
+    },
+    "correct_answer": "a"
+  },
+  {
+    "id": 18,
+    "question": "…. bayon V-IX sinflarning har birida darsning 8-20 minutida qiziqarli kichik mashg'ulot sifatida o'tkaziladi va bu mashg'ulot o'quvchini qiynamaydi, aksincha mazmunni tez o'zlashtirishga yordam beradi.",
+    "options": {
+      "a": "Ixcham",
+      "b": "Qo'shimcha topshiriqli",
+      "c": "Saylanma",
+      "d": "Ijodiy"
+    },
+    "correct_answer": "a"
+  },
+  {
+    "id": 19,
+    "question": "Bayonda aniqlangan uslubiy xatoni ko'rsatishda qaysi belgidan foydalaniladi?",
+    "options": {
+      "a": "So'zning tagiga to'lqinli chiziq chiziladi.",
+      "b": "So'zning tagiga bir to'g'ri chiziq chiziladi",
+      "c": "So'zning tagiga ikki to'g'ri chiziq chiziladi.",
+      "d": "Jumlaning yoniga ikki qo'sh chiziq chiziladi."
+    },
+    "correct_answer": "a"
+  },
+  {
+    "id": 20,
+    "question": "… noan'anaviy darsning bir turi bo'lib, o'quvchilarni mustaqil ishlash, ijodiy faoliyat ko'rsatishga undovchi mashg'ulot shaklidir.",
+    "options": {
+      "a": "Ona tilidan seminar darslari",
+      "b": "Ona tilidan bahs-munozara darslari",
+      "c": "Ona tilidan konferensiya darslari",
+      "d": "Ona tilidan sirtqi sayohat darslari"
+    },
+    "correct_answer": "a"
+  },
+  {
+    "id": 21,
+    "question": "O'zbekistonda 1940-yilda nashr etilgan \"Ona tili o'qitish metodikasi\" qo'llanmasining muallifi kim?",
+    "options": {
+      "a": "S.A. Fessaloniskiy",
+      "b": "Murod Shams",
+      "c": "M.A.Ribnikova",
+      "d": "Faxri Kamol"
+    },
+    "correct_answer": "a"
+  },
+  {
+    "id": 22,
+    "question": "O'quvchida ijodiy, tanqidiy fikrlash ko'nikmalarini shakllantiradi; an'anaviy ta'limda qo'llanmaydigan usullarga murojaat qilinadi; o'quv rejasiga real hayot konteksti kiritiladi; o'quvchini obyektiv baholashga yordam beradi. Ushbu ta'lim qanday ataladi?",
+    "options": {
+      "a": "Loyihaga asoslangan ta'lim",
+      "b": "Didaktik o'yinlar",
+      "c": "Modulli ta'lim texnologiyasi",
+      "d": "Interaktiv metod"
+    },
+    "correct_answer": "a"
+  },
+  {
+    "id": 23,
+    "question": "Ona tili mashg'ulotlarida keng qo'llanadigan inshoning bu turi tasviriy inshodan mazmunan bir-biriga bog'liq voqea-hodisalar haqida fikr yuritilishi bilan farq qiladi. Shuning uchun bu insho \"kichik hikoya\", deb ham yuritiladi. Fikr inshoning qaysi turi haqida?",
+    "options": {
+      "a": "Rivoyat-insho",
+      "b": "Ertak-insho",
+      "c": "Tavsifiy insho",
+      "d": "Mulohaza insho"
+    },
+    "correct_answer": "a"
+  },
+  {
+    "id": 24,
+    "question": "A.G'ulomov ta'lim metodlarini qanday turlarga bo'lib o'rganishni tavsiya etadi?",
+    "options": {
+      "a": "O'qituvchi va talaba faoliyati bilan bog'liq metodlar",
+      "b": "Tayyor bilimlar bilan qurollantirish va yo'naltiruvchi ta'lim metodi",
+      "c": "Muammoli ta'lim metodi; ongli-verbal kognitiv ta'lim metodi",
+      "d": "Ongli-verbal kognitiv hamda izlanuvchanlik metodi"
+    },
+    "correct_answer": "a"
+  },
+  {
+    "id": 25,
+    "question": "Qaysi yondashuvda fanlararo va ularning ta'limlararo aloqadorlik, yaqinlik, ya'ni yaxlitlanish jarayonlari nazarda tutiladi?",
+    "options": {
+      "a": "Integrativ",
+      "b": "Kognitiv",
+      "c": "Kommunikativ",
+      "d": "Ongli-verbal"
+    },
+    "correct_answer": "a"
+  },
+  {
+    "id": 26,
+    "question": "1918-yilda Toshkent eski shahar maorif sho'basi qoshida tashkil etilgan \"Makotib\" uyushmasining rahbari kim bo'lgan?",
+    "options": {
+      "a": "Zufar Nosiriy",
+      "b": "Shorasul Zunnun",
+      "c": "Qayum Ramazon",
+      "d": "Abdulla Avloniy"
+    },
+    "correct_answer": "d"
+  },
+  {
+    "id": 27,
+    "question": "Ona tilini o'qitishda ilmiylik prinsipi nimani talab etadi?",
+    "options": {
+      "a": "O'quv predmetlarini hozirgi fan yutuqlari zamirida bayon qilish",
+      "b": "O'quv predmetlarini bolaning xususiyatlariga moslashtirish",
+      "c": "Til sathlarini o'zaro aloqadorlikda o'rganish",
+      "d": "Mustaqil fikrlash va tahlil qilishni o'rganish"
+    },
+    "correct_answer": "a"
+  },
+  {
+    "id": 28,
+    "question": "Qaysi metod o'quvchini o'ylashga, tafakkur etishga undaydi, o'qituvchi va o'quvchining dialogik nutqi shaklida savol-javobga asoslanadi?",
+    "options": {
+      "a": "Evristik suhbat metodi",
+      "b": "Mavzuni mustahkamlovchi suhbat metodi",
+      "c": "Og'zaki bayon metodi",
+      "d": "Hikoya metodi"
+    },
+    "correct_answer": "a"
+  },
+  {
+    "id": 29,
+    "question": "Qaysi metod o'rta umumta'lim maktablarining ona tili darslarida o'tiladigan til sathlari bo'yicha o'rgangan nazariy bilimlarini mustahkamlaydi, o'zlashtirilgan bilimlarini chuqurlashtiradi?",
+    "options": {
+      "a": "Grammatik tahlil metodi",
+      "b": "Evristik suhbat metodi",
+      "c": "Mavzuni mustahkamlovchi suhbat metodi",
+      "d": "Og'zaki bayon metodi"
+    },
+    "correct_answer": "a"
+  },
+  {
+    "id": 30,
+    "question": "Ta'lim jarayonida o'qitish ishlarini o'qituvchi bilan o'quvchi, o'quvchi bilan o'quvchi, o'quvchi bilan sinf kabi oraliqda amalga oshirilishi, natijada butun sinf o'quvchilari bilan ishlay olish imkoniyatini beruvchi ta'lim texnologiyasi qanday ataladi?",
+    "options": {
+      "a": "Hamkorlikda o'qitish texnologiyasi",
+      "b": "Didaktik o'yinlar texnologiyasi",
+      "c": "Modulli ta'lim texnologiyasi",
+      "d": "Interaktiv metod"
+    },
+    "correct_answer": "a"
+  },
+  {
+    "id": 31,
+    "question": "Lak, tuman, botmon, chaqirim, farsah, tanob, sadyak, misqol, qirot kabi so'zlar qaysi mavzu doirasida o'rganiladi?",
+    "options": {
+      "a": "Son",
+      "b": "Fe'l",
+      "c": "Olmosh",
+      "d": "Ot"
+    },
+    "correct_answer": "a"
+  },
+  {
+    "id": 32,
+    "question": "Ostensiv tushuntirish nima?",
+    "options": {
+      "a": "Biror narsani tushuntirganda amalda isbotlab tushuntirish",
+      "b": "Biror narsani tushuntirganda taqqoslab tushuntirish",
+      "c": "Biror narsani tushuntirganda, uning boshqa tildagi izohini aytib tushuntirish",
+      "d": "Yozilishi va aytilishi bir xil so'zlarni imlosini tushuntirish"
+    },
+    "correct_answer": "a"
+  },
+  {
+    "id": 33,
+    "question": "Pedagogik maqsadiga ko'ra insho turlarini toping.",
+    "options": {
+      "a": "Ta'limiy, nazoratga qaratilgan, ko'rik-tanlov insholari",
+      "b": "Erkin, adabiy insholar",
+      "c": "Mulohaza, muhokama insholar",
+      "d": "Ko'rik-tanlov insholari, tasviriy insholar"
+    },
+    "correct_answer": "a"
+  },
+  {
+    "id": 34,
+    "question": "Qanday darslarda bolalar yangi o'quv materialini, uning amaliy qo'llanishini ijodiy yo'l bilan o'zlashtiradi? O'rganilayotgan mavzuga oid dalillarni to'plash va shu dalillarni tahlil qilish, bilimlarni o'rganish va mustahkamlash, o'rganilgan bilimlarning amaliy qo'llanishini egallash parallel olib boriladi?",
+    "options": {
+      "a": "Muammoli dars",
+      "b": "An'anaviy dars",
+      "c": "Nazorat darslari",
+      "d": "Mustaqil ishlar bilan ishlash darsi"
+    },
+    "correct_answer": "a"
+  },
+  {
+    "id": 35,
+    "question": "Davlat ta'lim standartining tarkibiy qismlari ko'rsatilgan javobni belgilang.",
+    "options": {
+      "a": "4",
+      "b": "3",
+      "c": "5",
+      "d": "6"
+    },
+    "correct_answer": "a"
+  },
+  {
+    "id": 36,
+    "question": "Ona tilini o'qitish metodikasining ilmiy tadqiqot metodlari qaysilar?",
+    "options": {
+      "a": "O'qituvchi faoliyati bilan bog'liq metodlar, o'quvchi faoliyati bilan bog'liq metodlar",
+      "b": "Suhbat va kuzatish, metodik eksperiment, diagnostik tahlil, metodik merosni o'rganish",
+      "c": "Qayta xotiralashga asoslangan metodlar, qisman izlanuvchanlik metodlari, izlanishga asoslangan metodlar",
+      "d": "Tayyor bilimlar bilan qurollantirish metodi, yo'naltiruvchi ta'lim metodi, muammoli ta'lim metodi"
+    },
+    "correct_answer": "a"
+  },
+  {
+    "id": 37,
+    "question": "Milliy o'quv dasturida berilgan yozma nutq malakasi talablarida 8-sinf o'quvchilari nechta gapdan iborat matnni yoza olishi kerak?",
+    "options": {
+      "a": "16-18",
+      "b": "18-20",
+      "c": "20-22",
+      "d": "20-25"
+    },
+    "correct_answer": "a"
+  },
+  {
+    "id": 38,
+    "question": "Milliy o'quv dasturida berilgan yozma nutq malakasi talablarida 9-sinf o'quvchilari nechta gapdan iborat matnni yoza olishi kerak?",
+    "options": {
+      "a": "18-20",
+      "b": "16-18",
+      "c": "20-22",
+      "d": "20-25"
+    },
+    "correct_answer": "a"
+  },
+  {
+    "id": 39,
+    "question": "Milliy o'quv dasturida berilgan yozma nutq malakasi talablarida 10-sinf o'quvchilari nechta gapdan iborat matnni yoza olishi kerak?",
+    "options": {
+      "a": "20-25",
+      "b": "18-20",
+      "c": "16-18",
+      "d": "20-22"
+    },
+    "correct_answer": "a"
+  },
+  {
+    "id": 40,
+    "question": "Milliy o'quv dasturida ish qog'ozlaridan shaxsiy xat, e'lon, tabriknoma, taklifnoma, tushuntirish xati, tarjimayi hol, ariza, tavsifnoma, tavsiyanomani to'g'ri yoza olish nechanchi sinfga qo'yilgan talab?",
+    "options": {
+      "a": "7-sinf",
+      "b": "8-sinf",
+      "c": "9-sinf",
+      "d": "10-sinf"
+    },
+    "correct_answer": "c"
+  },
+  {
+    "id": 41,
+    "question": "Milliy o'quv dasturida husnixat, tinish belgilari va imlo qoidalariga amal qilgan holda 80–90 ta so'zdan iborat diktant yoza olish nechanchi sinfga qo'yilgan talab?",
+    "options": {
+      "a": "5-sinf",
+      "b": "6-sinf",
+      "c": "7-sinf",
+      "d": "8-sinf"
+    },
+    "correct_answer": "b"
+  },
+  {
+    "id": 42,
+    "question": "Milliy o'quv dasturida 11-sinflarga qo'yilgan talabda grammatik, punktuatsion va imlo qoidalariga amal qilgan holda nechta so'zdan iborat diktant yoza olishi kerak?",
+    "options": {
+      "a": "170-180 ta",
+      "b": "160-170",
+      "c": "150-170",
+      "d": "140-160"
+    },
+    "correct_answer": "a"
+  },
+  {
+    "id": 43,
+    "question": "Mazkur nutq replikalar tizimidan iborat bo'lib, adresatning kimligi, uning reaksiyalari muhim hisoblanadi. Muayyan nutqiy vaziyatda sodir bo'ladi, oldindan to'liq rejalashtirib bo'lmaydi. Fikr qanday nutq turi haqida?",
+    "options": {
+      "a": "Dialogik nutq",
+      "b": "Monologik nutq",
+      "c": "Ichki nutq",
+      "d": "Tashqi nutq"
+    },
+    "correct_answer": "a"
+  },
+  {
+    "id": 44,
+    "question": "So'z birikmasini o'qitish jarayonida o'qituvchi o'quvchilarning oldiga ma'lum bir muammoni qo'yishi, undagi dalillarni tahlil qilish, muammoni yechishga oid bo'lgan takliflarni aytish, muammoni yechish va undan tegishli xulosani chiqarish kabi jarayonlar til ta'limining qaysi turiga xos?",
+    "options": {
+      "a": "Muammoli ta'lim",
+      "b": "Izohli-ko'rgazmali ta'lim",
+      "c": "Differensial ta'lim",
+      "d": "Hamkorlikdagi ta'lim"
+    },
+    "correct_answer": "a"
+  },
+  {
+    "id": 45,
+    "question": "Yangi maqsadga muvofiq ona tili ta'limining mazmuni, usuli va vositalari, shuningdek, ona tilidan Davlat ta'lim standarti, o'rta umumta'lim maktablarida ona tili o'qitish konsepsiyasi masalalari \"O'zbek tili doimiy anjumani\"ning nechanchi yig'inida keng muhokama etildi?",
+    "options": {
+      "a": "\"O'zbek tili doimiy anjumani\"ning 2-yig'ini",
+      "b": "\"O'zbek tili doimiy anjumani\"ning 1-yig'ini",
+      "c": "\"O'zbek tili doimiy anjumani\"ning 3-yig'ini",
+      "d": "\"O'zbek tili doimiy anjumani\"ning 4-yig'ini"
+    },
+    "correct_answer": "a"
+  },
+  {
+    "id": 46,
+    "question": "1997-yilning aprelida Toshkent shahrida o'tkazilgan \"O'zbek tili doimiy anjumani\"ning nechanchi yig'inida ta'lim jarayonida shaxsning qobiliyatini, ichki olamini yuzaga chiqaruvchi (siyratning surati) – ijodiy matn yaratish ustida ishlashning asosiy omillariga e'tibor qaratildi?",
+    "options": {
+      "a": "\"O'zbek tili doimiy anjumani\"ning 4-yig'ini",
+      "b": "\"O'zbek tili doimiy anjumani\"ning 2-yig'ini",
+      "c": "\"O'zbek tili doimiy anjumani\"ning 3-yig'ini",
+      "d": "\"O'zbek tili doimiy anjumani\"ning 1-yig'ini"
+    },
+    "correct_answer": "a"
+  },
+  {
+    "id": 47,
+    "question": "Bilimlarni tayyor holda bayon qilish orqali qanday mavzular izohlanadi?",
+    "options": {
+      "a": "Takrorlashga mo'ljallangan mavzular",
+      "b": "Uzoq o'tgan mavzular",
+      "c": "O'quvchilarga tanish mavzular",
+      "d": "Murakkab, noma'lum mavzular"
+    },
+    "correct_answer": "d"
+  },
+  {
+    "id": 48,
+    "question": "Ona tilining ayni bir mazmun/fikrni ifodalash uchun o'nlab imkoniyatlari mavjudligi asosida ta'lim oluvchida ijodiylik, mustaqil fikrlash, ijodiy fikr mahsulini nutq vaziyati, so'zlovchi maqsadi, tinglovchi saviyasiga mos ravishda yozma/og'zaki shakllarda to'g'ri, ravon va lo'nda ifodalash. Bu fikr umumiy ta'limning qaysi bo'g'iniga tegishli?",
+    "options": {
+      "a": "Tayanch bo'g'in",
+      "b": "O'rta maxsus ta'lim bo'g'in",
+      "c": "Boshlang'ich bo'g'in",
+      "d": "Oliy ta'lim bo'g'in"
+    },
+    "correct_answer": "a"
+  },
+  {
+    "id": 49,
+    "question": "Ona tili fanini o'qitishning asosiy maqsadi nimalardan iborat?",
+    "options": {
+      "a": "O'z fikrini og'zaki va yozma tarzda to'g'ri va ravon bayon qila oladigan, kitobxonlik madaniyati shakllangan, mustaqil va ijodiy fikrlay oladigan, o'zgalar fikrini anglaydigan – muloqot va nutq madaniyati rivojlangan shaxsni kamol toptirish",
+      "b": "O'quvchi shaxsini fikrlashga, o'z fikrini og'zaki va yozma ravishda savodli bayon qila olishga qaratilgan nutqiy kompetensiyalarni rivojlantirish",
+      "c": "O'quvchilarda grammatikaga oid bilimlarni rivojlantirish, o'zgalar fikrini anglaydigan – muloqot va nutq madaniyati rivojlangan shaxsni kamol toptirish",
+      "d": "Ona tilining keng imkoniyatlaridan unumli foydalangan holda to'g'ri va ravon bayon eta olishni rivojlantirishga qaratilgan lingvistik kompetensiyalarni shakllantirishdan iborat"
+    },
+    "correct_answer": "a"
+  },
+  {
+    "id": 50,
+    "question": "Oldindan ma'lum bo'lgan o'quv materiali yuzasidan savollar berish qaysi usulda amalga oshiriladi?",
+    "options": {
+      "a": "Evristik suhbat usulida",
+      "b": "Ko'rgazmali usulda",
+      "c": "Axborot xarakterdagi suhbat usulida",
+      "d": "Suhbat usulida"
+    },
+    "correct_answer": "c"
+  },
+  {
+    "id": 51,
+    "question": "… muallifning ma'lum bir mavzu asosida o'z fikrlarini yozma shaklda bayon qilinishini ta'minlovchi kichik asar.",
+    "options": {
+      "a": "Insho",
+      "b": "Bayon",
+      "c": "Diktant",
+      "d": "Esse"
+    },
+    "correct_answer": "a"
+  },
+  {
+    "id": 52,
+    "question": "Bunday mavzudagi insholar o'quvchilar badiiy nutqini rivojlantiradi, unga o'xshatish, sifatlash, jonlantirish, mubolag'a singari adabiy tasvir foydalanishni o'rgatadi. Bu fikr qanday insho turiga tegishli?",
+    "options": {
+      "a": "Adabiy mavzudagi insholar",
+      "b": "Erkin mavzudagi insholar",
+      "c": "Ta'limiy insholar",
+      "d": "Sinov insholar"
+    },
+    "correct_answer": "a"
+  }
+]
